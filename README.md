@@ -1,11 +1,12 @@
-# Churn Telecom Modeling Projects
+# Churn Telecom Modeling Project
 
-<img src=https://www.logolynx.com/images/logolynx/f7/f75fdb74aaa4f44040e65f7ed4a0952f.jpeg width="600" height="300">
+<img src=https://www.surveyworksaustin.com/wp-content/uploads/2019/02/cell-tower-title-review-survey.jpg width="700" height="300">
 
-
-Phase 3 Flatiron project developing ML models and predicts for Syria Tel
+Phase 3 Flatiron project developing ML models and predictions for SyriaTel
 
 **Authors**: Nate Walter, Brett Zimmerman, Jax Garnett
+
+
 
 ## Table of Contents
 * [Overview](#Project-Overview)
@@ -16,8 +17,13 @@ Phase 3 Flatiron project developing ML models and predicts for Syria Tel
 * [Conclusions](#Conclusion)
 * [Repository Structure](#Repository-Structure)
 
+<img src=https://www.logolynx.com/images/logolynx/f7/f75fdb74aaa4f44040e65f7ed4a0952f.jpeg width="400" height="150">
+
+
 ## Project Overview
 This repository analyzes the data on SyriaTel’s customer churn to create machine learning classification models capable of predicting if a customer will churn or not. Our objective is to create a model using the customer churn data in SyriaTels’ customer database. The goal of our model is to have a high F1 score and Recall scores, so we know that our predictions are meaningful to the situation. By using different machine learning techniques, we were able to identify if a customer will churn, making our model a useful tool for the phone company interested in allocating its resources to customers. 
+
+
  
 ## Business Problem
 We are an independent company audit firm hired by SyriaTel to investigate opportunities to increase customer retention by predicting customer loss from analyzing past data. We aim to provide a model highly successful at identifying if a customer will end their relationship with SyriaTel. The company can then take actionable steps to reduce their deficit.
