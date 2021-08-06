@@ -1,7 +1,20 @@
 # Churn Telecom Modeling Projects
-![SyriaTel_logo](./Pictures/Syriatel_Logo.png)
+
+<img src=https://www.logolynx.com/images/logolynx/f7/f75fdb74aaa4f44040e65f7ed4a0952f.jpeg width="600" height="300">
+
 
 Phase 3 Flatiron project developing ML models and predicts for Syria Tel
+
+**Authors**: Nate Walter, Brett Zimmerman, Jax Garnett
+
+## Table of Contents
+* [Overview](#Project-Overview)
+* [Business Problem](#Business-Problem)
+* [The Data](#The-Data)
+* [Data Cleaning](#Data-Cleaning)
+* [Analysis](#Analyis)
+* [Conclusions](#Conclusion)
+* [Repository Structure](#Repository-Structure)
 
 ## Project Overview
 This repository analyzes the data on SyriaTel’s customer churn to create machine learning classification models capable of predicting if a customer will churn or not. Our objective is to create a model using the customer churn data in SyriaTels’ customer database. The goal of our model is to have a high F1 score and Recall scores, so we know that our predictions are meaningful to the situation. By using different machine learning techniques, we were able to identify if a customer will churn, making our model a useful tool for the phone company interested in allocating its resources to customers. 
