@@ -8,6 +8,7 @@ Phase 3 Flatiron project developing ML models and predictions for SyriaTel
 
 
 
+
 ## Table of Contents
 * [Overview](#Project-Overview)
 * [Business Problem](#Business-Problem)
@@ -16,6 +17,17 @@ Phase 3 Flatiron project developing ML models and predictions for SyriaTel
 * [Analysis](#Analyis)
 * [Conclusions](#Conclusion)
 * [Repository Structure](#Repository-Structure)
+
+## Structure
+```
+.
+├── Pitch.pdf
+├── README.md
+├── Syriatel_model_notebook.ipynb
+└── data
+    └── churn-data-set.csv
+```
+
 
 <img src=https://www.logolynx.com/images/logolynx/f7/f75fdb74aaa4f44040e65f7ed4a0952f.jpeg width="400" height="150">
 
